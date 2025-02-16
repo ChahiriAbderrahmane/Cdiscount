@@ -1,7 +1,7 @@
 # Cdiscount
 ## Tracking Performance & Customer Sentiment
 
-[Link](https://www.kaggle.com/code/chahiriiscoding/cdiscount-tracking-performance-customer-sentime) is available on Kaggle.
+[Access the notebook for this project here:](https://www.kaggle.com/code/chahiriiscoding/cdiscount-tracking-performance-customer-sentime) is available on Kaggle.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b0fd47f6-9348-418a-b161-38d512eb177c" alt="Image 1" width="45%" />
