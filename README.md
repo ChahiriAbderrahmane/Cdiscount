@@ -18,6 +18,6 @@ By analyzing **customer reviews on Trustpilot** from **February 13, 2024**, to *
 ### 🧠 Sentiment Analysis Highlights:
 - There is a **notable increase in negative reviews** 😡, which are now far more frequent than positive ones 😊.  
 - The ratio has shifted:  
-  **(NEGATIVE ~ POSITIVE)** ➡️ **(NEGATIVE > 800, POSITIVE < 150)**.  
+  **(NEGATIVE ~ POSITIVE ~ 650, during the first quartile)** ➡️ **(NEGATIVE > 800, POSITIVE < 150, in the last quartile)**.  
 
 This further underscores the **growing customer dissatisfaction** 😔 and the need for immediate action to regain customer trust and improve satisfaction.
