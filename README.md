@@ -8,6 +8,8 @@
   <img src="https://github.com/user-attachments/assets/d825df49-c22b-4757-b0c8-123a92d714a0" alt="Image 2" width="45%" />
 </p>
 
+## The data used in this project was scraped from the Trustpilot website. 
+
 ## 📌 Conclusion
 
 By analyzing **customer reviews on Trustpilot** from **February 13, 2024**, to **February 13, 2025**, 📊 it appears that **Cdiscount's performance is declining** 📉, with customers becoming increasingly dissatisfied 😞 with their services, especially regarding **delivery issues** 🚚.
