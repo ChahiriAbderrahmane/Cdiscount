@@ -1,0 +1,9 @@
+requests
+bs4
+pandas
+matplotlib
+transformers
+SentencePiece
+sacremoses
+torch
+datasets 
